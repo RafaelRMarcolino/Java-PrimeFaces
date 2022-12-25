@@ -1,0 +1,9 @@
+127.0.0.1 - - [25/Dec/2022:11:20:26 -0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Dec/2022:11:20:26 -0200] "GET /java-web/WEB-INF/classes/br/com/javaweb/java_web/App.java HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [25/Dec/2022:11:20:27 -0200] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [25/Dec/2022:11:24:13 -0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Dec/2022:11:24:13 -0200] "GET /java-web/faces/index.xhtml HTTP/1.1" 404 682
+127.0.0.1 - - [25/Dec/2022:11:28:08 -0200] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [25/Dec/2022:11:28:09 -0200] "GET /java-web/faces/index.xhtml HTTP/1.1" 200 274
+0:0:0:0:0:0:0:1 - - [25/Dec/2022:11:28:30 -0200] "GET /java-web/faces/index.xhtml HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [25/Dec/2022:11:28:31 -0200] "GET /favicon.ico HTTP/1.1" 404 762
