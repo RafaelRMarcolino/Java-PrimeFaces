@@ -1,0 +1,22 @@
+package br.com.javaweb.java_web.bean;
+
+import javax.annotation.ManagedBean;
+import javax.faces.bean.SessionScoped;
+
+@SessionScoped
+@ManagedBean
+public class NomeBeans {
+	
+	private String nome;
+	private String sobrenome;
+	
+	private String mensagem;
+	
+	public void dezerOla() {
+		
+		mensagem = "Ola " + nome + " " + sobrenome;
+	}
+	
+	
+
+}

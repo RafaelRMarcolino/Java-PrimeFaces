@@ -11,14 +11,26 @@
 </h:head>
 <h:body>
 
-<h:panelGrid columns="2">
-	<h:outputLabel for="nome" value="Nome"></h:outputLabel>
-	<h:inputText id="nome"/>
+
+<h:form>
+
+<h:panelGrid columns="2" style="border: 1px solid #000;">
+	<h:outputLabel for="nome" value="Nome"/>
+	<h:inputText id="nome" value="#{bean.nome}"/>
 	<h:outputLabel for="sobrenome" value="sobrenome"/>
-	<h:inputText id="sobrenome"/>
+	<h:inputText id="sobrenome" value="#{nomeBeans.sobrenome}"/>
 	<h:outputText/>
-	<p:button value="Enviar"/>
+	
+	<p:commandButton value="Enviar" action="#{nomeBeans.dezerOla}" update="msg" />
+	
+	<h:outputText id="msg" value="#{nomeBeans.mensagem}"/>
+	
 </h:panelGrid>
+
+</h:form>
+
+
+
 
 </h:body>
 </html>
