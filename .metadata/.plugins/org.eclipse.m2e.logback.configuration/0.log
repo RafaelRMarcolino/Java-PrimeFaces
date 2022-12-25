@@ -340,3 +340,255 @@
 2022-12-25 14:16:58,051 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web\src\main\resources
 2022-12-25 14:16:58,052 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-12-25 14:16:58,053 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web\src\test\resources
+2022-12-25 14:22:12,168 [Worker-92: Launching mavenrun-3b8ee374-c5b9-4f7b-9522-face2a036ae8] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ralfb\javaJsgCurso
+2022-12-25 14:22:12,169 [Worker-92: Launching mavenrun-3b8ee374-c5b9-4f7b-9522-face2a036ae8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=br.com.javaweb2.java_web2 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=br.com.javaweb2 -DartifactId=java-web2 -DoutputDirectory=C:\Users\ralfb\javaJsgCurso -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-12-25 14:24:00,006 [Worker-79: Launching mavenrun-f9bf4618-bcc8-4a58-b6f6-b479d8e69249] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ralfb\javaJsgCurso
+2022-12-25 14:24:00,006 [Worker-79: Launching mavenrun-f9bf4618-bcc8-4a58-b6f6-b479d8e69249] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=br.com.javaweb.javaweb -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=br.com.javaweb -DartifactId=javaweb -DoutputDirectory=C:\Users\ralfb\javaJsgCurso -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-12-25 14:25:29,301 [Worker-86: Launching mavenrun-ac6a7a66-c02b-4529-8259-26dec59ec968] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ralfb\javaJsgCurso
+2022-12-25 14:25:29,302 [Worker-86: Launching mavenrun-ac6a7a66-c02b-4529-8259-26dec59ec968] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -DarchetypeVersion=1.4 -Dpackage=br.com.javaweb.java_web2 -DarchetypeGroupId=org.apache.maven.archetypes -DarchetypeArtifactId=maven-archetype-quickstart -DgroupId=br.com.javaweb -DartifactId=java-web2 -DoutputDirectory=C:\Users\ralfb\javaJsgCurso -Dversion=0.0.1-SNAPSHOT -Dstyle.color=always -U archetype:generate
+2022-12-25 14:25:42,869 [Worker-87: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml
+2022-12-25 14:25:43,223 [Worker-87: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:25:43,652 [Worker-87: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/main/java
+2022-12-25 14:25:43,654 [Worker-87: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/test/java
+2022-12-25 14:25:43,953 [Worker-87: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2022-12-25 14:25:44,289 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:25:44,289 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:25:44,292 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:25:44,292 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:26:06,154 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:26:06,154 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:26:06,156 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:26:06,156 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:27:04,230 [Worker-86: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:27:04,231 [Worker-86: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:27:04,233 [Worker-86: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:27:04,233 [Worker-86: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:28:26,430 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-25 14:28:28,026 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:28:28,348 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/main/java
+2022-12-25 14:28:28,348 [Worker-86: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/test/java
+2022-12-25 14:28:28,798 [Worker-86: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2022-12-25 14:28:28,995 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:28:28,995 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:28:28,998 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:28:28,998 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:28:40,484 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:28:40,484 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:28:40,486 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:28:40,487 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:28:51,405 [Worker-94: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-25 14:28:51,633 [Worker-94: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:28:51,736 [Worker-94: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/main/java
+2022-12-25 14:28:51,737 [Worker-94: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/test/java
+2022-12-25 14:28:51,922 [Worker-94: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-25 14:28:52,090 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:28:52,090 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:28:52,092 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:28:52,093 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:29:29,186 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:29:29,186 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:29:29,188 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:29:29,188 [Worker-90: Building Project java-web2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:29:39,039 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:29:39,039 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:29:39,041 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:29:39,041 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:29:44,320 [Worker-90: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:29:44,411 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:29:44,411 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:29:44,413 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:29:44,413 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:30:01,376 [Worker-93: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-25 14:30:01,596 [Worker-93: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:30:01,688 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/main/java
+2022-12-25 14:30:01,689 [Worker-93: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /java-web2/src/test/java
+2022-12-25 14:30:01,837 [Worker-93: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2022-12-25 14:30:02,068 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:30:02,068 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:30:02,071 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:30:02,071 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:32:36,483 [Worker-94: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:32:36,668 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:36,668 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:32:36,671 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:36,671 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:32:39,132 [Worker-97: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:32:39,219 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:39,220 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:32:39,221 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:39,221 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:32:51,682 [Worker-93: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:32:51,956 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:51,956 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:32:51,958 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:51,958 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:32:53,336 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:53,336 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:32:53,337 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:32:53,337 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:33:12,214 [Worker-94: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.javaweb:java-web2:0.0.1-SNAPSHOT @ C:\Users\ralfb\javaJsgCurso\java-web2\pom.xml.
+2022-12-25 14:33:12,459 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:33:12,459 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:33:12,461 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:33:12,461 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:33:13,837 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:33:13,838 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:33:13,840 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:33:13,840 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:34:50,655 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:34:50,656 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:34:50,658 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:34:50,658 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:37:18,096 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:37:18,097 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:37:18,098 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:37:18,098 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:37:19,165 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:37:19,165 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:37:19,167 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:37:19,167 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:37:40,280 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:37:40,280 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:37:40,283 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:37:40,283 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:38:03,668 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:38:03,668 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:38:03,670 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:38:03,671 [Worker-106: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:39:58,054 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:39:58,054 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:39:58,056 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:39:58,057 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:40:26,812 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:40:26,812 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:40:26,815 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:40:26,815 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:40:51,155 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:40:51,156 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:40:51,157 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:40:51,157 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:42:48,842 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:42:48,842 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:42:48,843 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:42:48,843 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:44:26,584 [Worker-109: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:44:26,584 [Worker-109: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:44:26,585 [Worker-109: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:44:26,585 [Worker-109: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:44:35,373 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:44:35,373 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:44:35,375 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:44:35,375 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:46:28,536 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:46:28,537 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:46:28,538 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:46:28,538 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:46:43,810 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:46:43,810 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:46:43,811 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:46:43,812 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:51:16,148 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:51:16,148 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:51:16,151 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:51:16,151 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:52:57,203 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:52:57,203 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:52:57,204 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:52:57,204 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:53:07,160 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:53:07,160 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:53:07,161 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:53:07,162 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:56:45,827 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:56:45,827 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:56:45,827 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:56:45,828 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:57:10,255 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:57:10,255 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:57:10,256 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:57:10,256 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:57:25,379 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:57:25,380 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:57:25,380 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:57:25,380 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 14:57:28,526 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:57:28,526 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 14:57:28,528 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 14:57:28,529 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:06:34,214 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:06:34,214 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:06:34,216 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:06:34,217 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:06:38,006 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:06:38,006 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:06:38,009 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:06:38,009 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:07:19,278 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:19,278 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:07:19,279 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:19,279 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:07:31,935 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:31,935 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:07:31,937 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:31,938 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:07:36,417 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:36,417 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:07:36,419 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:36,419 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:07:51,267 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:51,267 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:07:51,268 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:51,268 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:07:53,697 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:53,697 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:07:53,700 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:07:53,700 [Worker-121: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:09:16,739 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:09:16,739 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:09:16,741 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:09:16,741 [Worker-124: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:11:47,487 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:11:47,487 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:11:47,488 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:11:47,488 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:11:55,546 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:11:55,546 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:11:55,547 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:11:55,547 [Worker-119: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:16:13,981 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:16:13,981 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:16:13,982 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:16:13,983 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:16:32,785 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:16:32,785 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:16:32,786 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:16:32,787 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:33:37,719 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:33:37,719 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:33:37,720 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:33:37,721 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:33:39,904 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:33:39,904 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:33:39,905 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:33:39,906 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:34:15,992 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:34:15,992 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:34:15,993 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:34:15,994 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:34:27,485 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:34:27,485 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:34:27,486 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:34:27,486 [Worker-127: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:39:53,303 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:39:53,303 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:39:53,305 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:39:53,306 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:40:29,105 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:40:29,106 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:40:29,109 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:40:29,109 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources
+2022-12-25 15:44:00,829 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-25 15:44:10,579 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:44:10,630 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\main\resources
+2022-12-25 15:44:10,636 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-12-25 15:44:10,636 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ralfb\javaJsgCurso\java-web2\src\test\resources

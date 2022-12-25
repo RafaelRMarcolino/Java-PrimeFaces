@@ -25,15 +25,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="br.com.javaweb.java_web"/>
-			<item value="br.com.javaweb.java_jsf"/>
+			<item value="br.com.javaweb.java_web2"/>
+			<item value="br.com.javaweb.javaweb"/>
 		</list>
 		<list key="groupId">
 			<item value="br.com.javaweb"/>
 		</list>
 		<list key="artifactId">
-			<item value="java-web"/>
-			<item value="java-jsf"/>
+			<item value="java-web2"/>
+			<item value="javaweb"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
