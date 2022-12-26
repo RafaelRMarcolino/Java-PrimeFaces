@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:p="http://primefaces.org/ui">
+
+<h:head>
+
+	<title>Index 2</title>
+
+</h:head>
+
+<h:body>
+	<h:form>
+		<p:toolbar>
+			<p:toolbarGroup>
+
+				<p:commandButton value="Adicionar" action="#{carroBean.adicionar}"
+					update="@form" />
+			</p:toolbarGroup>
+		</p:toolbar>
+
+
+		<p:fieldset legend="Objetos">
+			<p:panelGrid columns="2">
+
+				<h:outputLabel value="Modelo" />
+				<p:inputText value="#{carroBean.carro.modelo}" />
+
+
+				<h:outputLabel value="Fabricante" />
+				<p:inputText value="#{carroBean.carro.fabricante}" />
+
+				<h:outputLabel value="Carro" />
+				<p:inputText value="#{carroBean.carro.cor}" />
+
+				<h:outputLabel value="Ano" />
+				<p:inputMask mask="9999" value="#{carroBean.carro.ano}"/>
+
+			</p:panelGrid>
+		</p:fieldset>
+		<p:dataTable value="#{carroBean.carros}" var="carro">
+			<p:column headerText="Modelo" sortBy="#{carro.modelo}">
+				<h:outputLabel value="#{carro.modelo}" />
+			</p:column>
+
+			<p:column headerText="Fabricante">
+				<h:outputLabel value="#{carro.fabricante}" />
+			</p:column>
+
+			<p:column headerText="Cor">
+				<h:outputLabel value="#{carro.cor}" />
+			</p:column>
+
+			<p:column headerText="Cor">
+				<h:outputLabel value="#{carro.cor}" />
+			</p:column>
+
+			<p:column headerText="Ano">
+				<h:outputLabel value="#{carro.ano}" />
+			</p:column>
+
+		</p:dataTable>
+
+
+	</h:form>
+
+
+</h:body>
+</html>
