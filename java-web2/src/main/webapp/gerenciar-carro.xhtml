@@ -45,7 +45,7 @@
 					<p:inputText value="#{carroBean.carro.cor}" />
 
 					<h:outputLabel value="Ano" />
-					<p:inputMask mask="9999" value="#{carroBean.carro.ano}" />
+					<p:calendar  value="#{carroBean.carro.ano}" />
 
 				</p:panelGrid>
 			</p:fieldset>
@@ -67,7 +67,9 @@
 				</p:column>
 
 				<p:column headerText="Ano">
-					<h:outputLabel value="#{carro.ano}" />
+					<h:outputLabel value="#{carro.ano}" >
+					<f:convertDateTime pattern="dd/MM/yyyy"></f:convertDateTime>
+					</h:outputLabel>
 				</p:column>
 
 			</p:dataTable>

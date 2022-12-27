@@ -1,11 +1,13 @@
 package br.com.javaweb.java_web2.entity;
 
+import java.util.Date;
+
 public class Carro {
 	
 	private String modelo;
 	private String fabricante;
 	private String cor;
-	private String ano;
+	private Date ano;
 	public String getModelo() {
 		return modelo;
 	}
@@ -24,12 +26,15 @@ public class Carro {
 	public void setCor(String cor) {
 		this.cor = cor;
 	}
-	public String getAno() {
+	public Date getAno() {
 		return ano;
 	}
-	public void setAno(String ano) {
+	public void setAno(Date ano) {
 		this.ano = ano;
 	}
+	
+	
+	
 	
 	
 	

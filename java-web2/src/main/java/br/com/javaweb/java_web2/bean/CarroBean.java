@@ -6,6 +6,7 @@ import java.util.List;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.SessionScoped;
 
+import br.com.javaweb.java_web2.dao.CarroDAO;
 import br.com.javaweb.java_web2.entity.Carro;
 
 @ManagedBean
@@ -19,6 +20,9 @@ public class CarroBean {
 	public void adicionar() {
 		
 		carros.add(carro);
+		
+		// criando a conexao
+		new CarroDAO().salvar(carro);
 		carro =  new Carro();
 		
 	}
