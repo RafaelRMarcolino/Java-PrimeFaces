@@ -20,8 +20,6 @@ public class CarroBean {
 	public void adicionar() {
 		
 		carros.add(carro);
-		
-		// criando a conexao
 		new CarroDAO().salvar(carro);
 		carro =  new Carro();
 		

@@ -12,25 +12,32 @@ import br.com.javaweb.java_web2.utils.FabricaConexao;
 
 public class CarroDAO {
 	
+	//            conexao.commit();
+//					"INSERT INTO `sistema-carros`.`carro`(`modelo`,`fabricante`,`cor`,`ano`)VALUES(?,?,?,?)");
+
+
 	public void salvar(Carro carro) {
-		
+
 		try {
 
 			Connection conexao = FabricaConexao.getConexao();
-			PreparedStatement ps = conexao.prepareCall("INSERT INTO `sistema-carros`.`carro`(`modelo`,`fabricante`,`cor`,`ano`)VALUES(?,?,?,?)");
+			System.out.println(" passou pelo try do salvar");
+			PreparedStatement ps = conexao.prepareCall("INSERT INTO carro (modelo, fabricante, cor, ano)VALUES(?,?,?,?)");
 			ps.setString(1, carro.getModelo());
+			System.out.println(ps + " ps");
 			ps.setString(2, carro.getFabricante());
 			ps.setString(3, carro.getCor());
 			ps.setDate(4, new Date(carro.getAno().getTime()));
+			
+			
 			ps.execute();
+			conexao.setAutoCommit(false);
 			FabricaConexao.fecharConexao();
-			
-			
-		}catch (SQLException ex) {
+
+		} catch (SQLException ex) {
 			Logger.getLogger(CarroDAO.class.getName()).log(Level.SEVERE, null, ex);
-		
+
 		}
 	}
-
 
 }

@@ -16,7 +16,7 @@ public class FabricaConexao {
 
 	private static Connection conexao;
 	private static final String URL_CONEXAO = "jdbc:mysql://localhost:3312/sistema-carros";
-	private static final String USUARIO = "root";
+	private static final String USUARIO = "root2";
 	private static final String SENHA = "95157535";
 
 	public static String getUrlConexao() {
