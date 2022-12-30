@@ -1,13 +1,23 @@
 package br.com.javaweb.java_web2.entity;
 
 import java.util.Date;
+import java.util.Objects;
 
 public class Carro {
 	
+	private Integer id;
 	private String modelo;
 	private String fabricante;
 	private String cor;
 	private Date ano;
+
+	
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
 	public String getModelo() {
 		return modelo;
 	}
@@ -31,6 +41,21 @@ public class Carro {
 	}
 	public void setAno(Date ano) {
 		this.ano = ano;
+	}
+	@Override
+	public int hashCode() {
+		return Objects.hash(id);
+	}
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Carro other = (Carro) obj;
+		return Objects.equals(id, other.id);
 	}
 	
 	

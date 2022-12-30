@@ -14,15 +14,24 @@ import br.com.javaweb.java_web2.entity.Carro;
 public class CarroBean {
 	
 	private Carro carro = new Carro();
+	private CarroDAO carroDAO = new CarroDAO();
 	
 	private List<Carro> carros = new ArrayList<>();
 	
 	public void adicionar() {
 		
-		carros.add(carro);
-		new CarroDAO().salvar(carro);
+		// carros.add(carro);
+		carroDAO.salvar(carro);
 		carro =  new Carro();
 		
+	}
+	
+	public void listar() {
+		carros =  carroDAO.buscar();
+	}
+	
+	public void editar(Carro c) {
+		carro =  c;
 	}
 
 	public Carro getCarro() {
@@ -39,6 +48,14 @@ public class CarroBean {
 
 	public void setCarros(List<Carro> carros) {
 		this.carros = carros;
+	}
+
+	public CarroDAO getCarroDAO() {
+		return carroDAO;
+	}
+
+	public void setCarroDAO(CarroDAO carroDAO) {
+		this.carroDAO = carroDAO;
 	}
 	
 	
